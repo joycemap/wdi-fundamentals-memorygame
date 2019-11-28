@@ -20,11 +20,15 @@ h2 {
 	color: #0D2C40;
 	font-weight: 600;
 	font-size: 20px;
+	margin: 0;
+	padding: 30px,20px,20px,30px;
 }
 p {
 	font-family: "Droid Serif";
 	line-height: 26px;
 	font-size:18px;
+	margin: 0;
+	padding: 30px,20px,20px,30px;
 }
 header {
 	background-color: #F15B31;
@@ -51,6 +55,7 @@ main {
 img {
 	margin: 40px,8px,40px,8px;
 	align-items: center;
+
 }
 footer {
 	text-transform: uppercase;
